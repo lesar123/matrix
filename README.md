@@ -1,2 +1,2 @@
-# matrix
-Matrix in terminal
+# Matrix in terminal
+
